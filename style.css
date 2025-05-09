@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.tab-content {
+  margin-top: 10px;
+  padding: 10px;
+  background: #f0f0f0;
+}
+
+.gallery img {
+  width: 200px;
+  display: block;
+  margin: 10px 0;
+}
+
+input {
+  margin: 5px 0;
+  padding: 8px;
+  width: 200px;
+}
+
+#formMsg {
+  color: red;
+}
